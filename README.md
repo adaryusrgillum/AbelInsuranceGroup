@@ -96,6 +96,11 @@ AbelInsuranceGroup/
 
 ## 🚀 Getting Started
 
+### Live Website
+
+The website is deployed and available at:
+**https://adaryusrgillum.github.io/AbelInsuranceGroup/**
+
 ### Local Development
 
 1. Clone the repository:
@@ -120,11 +125,19 @@ xdg-open index.html # Linux
 
 3. Visit `http://localhost:8000` in your browser
 
+### Deployment
+
+The site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch. See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions and configuration.
+
 ### Adding Images
 
-Place the following images in `assets/images/`:
-- `favicon.png` - Website favicon (32x32 or 64x64 px)
-- `og-image.jpg` - Social media sharing image (1200x630 px)
+The repository includes placeholder images in `assets/images/`:
+- `favicon.png` - Website favicon (SVG format, displays 'A' logo)
+- `og-image.jpg` - Social media sharing image (SVG format with branding)
+
+To replace with custom images, update these files in `assets/images/`:
+- `favicon.png` - Website favicon (32x32 or 64x64 px, PNG format recommended)
+- `og-image.jpg` - Social media sharing image (1200x630 px, JPG format recommended)
 - `logo.png` - Company logo (optional)
 
 ## 🎨 Customization
