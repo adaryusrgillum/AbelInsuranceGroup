@@ -1,0 +1,9 @@
+# CNAME Configuration for Custom Domain
+# 
+# Uncomment and replace with your custom domain when ready:
+# www.abelinsurancegroup.com
+#
+# Instructions:
+# 1. Remove the '#' from your domain line above
+# 2. Configure DNS with your domain provider
+# 3. Enable custom domain in GitHub Pages settings
